@@ -1,0 +1,248 @@
+Sr No,Time ,MI_Match No,Opposite Team,Match_City,Match_Month,Match_Date,Match Type,Toss,Batting Sequence,Match Score,Match_Stadium,Captain,Head Coach,No of Blowers,No of All Rounders,No of Batsman,Umpire_Sundaram Ravi,Umpire_Anil Chaudhary,Umpire_Nitin Menon,Umpire_Kumar Dharmasena,Umpire_Chris Gaffaney,Umpire_Others,Result
+1,D/N,2,Others,Mumbai,May,Odd,Home,Won,2,3,"Wankhede Stadium, Mumbai",Rohit Sharma,Mark Boucher,4,2,4,0,0,0,0,0,1,Win
+2,N,3,SRH,Mumbai,May,Even,Home,Lost,2,4,"Wankhede Stadium, Mumbai",Rohit Sharma,Mark Boucher,3,2,5,0,0,1,0,0,1,Win
+3,N,4,Others,Mumbai,May,Odd,Home,Won,2,3,"Wankhede Stadium, Mumbai",Rohit Sharma,Mark Boucher,4,2,4,0,0,1,0,0,1,Win
+4,N,5,Others,Mumbai,Apr,Even,Home,Lost,1,4,"Wankhede Stadium, Mumbai",Rohit Sharma,Mark Boucher,4,3,3,0,0,0,0,0,1,Win
+5,N,6,RCB,Mumbai,Apr,Even,Home,Won,2,4,"Wankhede Stadium, Mumbai",Rohit Sharma,Mark Boucher,3,3,4,0,1,0,0,1,1,Lost
+6,D/N,7,CSK,Mumbai,Apr,Even,Home,Won,2,3,"Wankhede Stadium, Mumbai",Others,Mark Boucher,3,3,4,0,0,0,0,0,1,Win
+7,N,8,Others,Mumbai,Apr,Even,Home,Lost,2,3,"Wankhede Stadium, Mumbai",Rohit Sharma,Mark Boucher,3,3,4,0,1,0,0,1,1,Lost
+8,D/N,9,RR,Mumbai,Apr,Even,Home,Won,2,3,Others,Rohit Sharma,Mark Boucher,4,3,3,0,0,1,0,0,1,Lost
+9,N,10,Others,Others,Apr,Odd,Home,Won,2,3,Others,Rohit Sharma,Mark Boucher,5,3,2,0,0,0,0,0,1,Lost
+10,D/N,11,Others,Mumbai,Apr,Even,Home,Won,2,3,Others,Rohit Sharma,Mark Boucher,4,4,2,0,1,0,0,0,1,Lost
+11,N,12,SRH,Mumbai,Apr,Odd,Home,Lost,2,3,Others,Rohit Sharma,Mark Boucher,4,4,2,0,0,0,0,0,1,Lost
+12,N,13,KKR,Mumbai,May,Odd,Home,Won,2,3,Others,Rohit Sharma,Mark Boucher,4,3,3,0,0,0,0,1,1,Lost
+13,N,14,DC,Mumbai,May,Odd,Home,Won,2,3,"Wankhede Stadium, Mumbai",Rohit Sharma,Mark Boucher,3,3,4,0,0,0,0,1,1,Lost
+14,N,15,CSK,Mumbai,May,Odd,Home,Won,2,3,"Wankhede Stadium, Mumbai",Rohit Sharma,Mark Boucher,4,3,3,0,0,1,0,0,1,Win
+15,D/N,1,RCB,Others,Oct,Even,Home,Lost,2,2,Others,Rohit Sharma,Mark Boucher,3,4,3,0,0,1,0,0,1,Lost
+16,N,2,DC,Others,Sep,Even,Home,Won,2,2,Others,Rohit Sharma,Mahela Jayawardene,3,4,3,1,0,0,0,0,1,Win
+17,N,3,RR,Others,Sep,Odd,Home,Lost,2,3,Others,Rohit Sharma,Mahela Jayawardene,4,2,4,1,0,0,0,1,1,Lost
+18,N,4,KKR,Delhi,May,Odd,Home,Won,2,4,"Arun Jaitley Stadium, Delhi",Rohit Sharma,Mahela Jayawardene,4,4,2,0,0,0,0,1,1,Win
+19,D/N,5,RCB,Delhi,Apr,Odd,Home,Won,2,3,"Arun Jaitley Stadium, Delhi",Rohit Sharma,Mahela Jayawardene,4,4,2,0,0,0,0,1,1,Win
+20,N,6,Others,Chennai,Apr,Odd,Home,Won,1,2,"MA Chidambaram Stadium, Chepauk, Chennai",Rohit Sharma,Mahela Jayawardene,4,3,3,0,0,0,0,1,1,Win
+21,N,7,Others,Chennai,Apr,Odd,Home,Lost,2,3,"MA Chidambaram Stadium, Chepauk, Chennai",Rohit Sharma,Mahela Jayawardene,3,4,3,0,0,1,0,0,1,Lost
+22,N,8,CSK,Others,Sep,Odd,Home,Lost,2,3,Others,Rohit Sharma,Mahela Jayawardene,4,3,3,1,0,0,0,1,1,Lost
+23,,9,Others,Others,Oct,Even,Home,Won,1,4,Others,Rohit Sharma,Mahela Jayawardene,4,3,3,0,0,0,0,0,1,Win
+24,N,10,RR,Others,Oct,Even,Home,Won,1,3,Others,Rohit Sharma,Mahela Jayawardene,4,3,3,1,0,0,0,1,1,Win
+25,N,11,Others,Others,Oct,Odd,Home,Lost,1,3,Others,Rohit Sharma,Mahela Jayawardene,4,3,3,1,0,0,0,1,1,Win
+26,N,12,KKR,Others,Oct,Even,Home,Lost,1,2,Others,Rohit Sharma,Mahela Jayawardene,4,3,3,1,0,0,0,1,1,Win
+27,N,13,CSK,Others,Oct,Even,Home,Won,1,3,Others,Rohit Sharma,Mahela Jayawardene,4,3,3,0,1,1,0,0,1,Lost
+28,N,14,SRH,Others,Oct,Even,Home,Won,2,3,Others,Kieron Pollard,Mahela Jayawardene,4,3,3,1,0,0,0,1,1,Win
+29,N,1,DC,Mumbai,Mar,Even,Home,Won,2,4,"Wankhede Stadium, Mumbai",Rohit Sharma,Mahela Jayawardene,3,4,3,1,0,0,0,0,1,Lost
+30,N,2,SRH,Mumbai,Apr,Odd,Home,Lost,2,3,"Wankhede Stadium, Mumbai",Rohit Sharma,Mahela Jayawardene,4,3,3,0,0,0,0,0,1,Win
+31,N,3,RR,Mumbai,Apr,Even,Home,Won,2,3,"Wankhede Stadium, Mumbai",Kieron Pollard,Mahela Jayawardene,4,3,3,1,0,0,0,0,1,Win
+32,D/N,4,DC,Mumbai,Apr,Odd,Home,Lost,2,3,"Wankhede Stadium, Mumbai",Rohit Sharma,Mahela Jayawardene,4,3,3,0,0,1,0,0,1,Lost
+33,N,5,Others,Mumbai,Apr,Odd,Home,Won,2,3,"Wankhede Stadium, Mumbai",Rohit Sharma,Mahela Jayawardene,4,3,3,0,0,1,0,0,1,Win
+34,N,6,RCB,Mumbai,May,Even,Home,Won,1,3,"Wankhede Stadium, Mumbai",Rohit Sharma,Mahela Jayawardene,4,3,3,1,0,0,0,0,1,Lost
+35,N,7,KKR,Mumbai,May,Odd,Home,Won,2,2,"Wankhede Stadium, Mumbai",Rohit Sharma,Mahela Jayawardene,4,3,3,1,0,0,0,0,1,Win
+36,N,8,CSK,Chennai,May,Odd,Home,Lost,1,2,"MA Chidambaram Stadium, Chepauk, Chennai",Rohit Sharma,Mahela Jayawardene,4,3,3,0,0,1,0,0,1,Win
+37,N,9,CSK,Others,May,Even,Home,Won,1,2,Others,Rohit Sharma,Mahela Jayawardene,4,3,3,0,0,1,0,0,1,Win
+38,N,10,RR,Mumbai,Apr,Odd,Home,Lost,2,3,"Wankhede Stadium, Mumbai",Rohit Sharma,Mahela Jayawardene,4,3,3,0,1,0,0,1,1,Lost
+39,D/N,11,Others,Mumbai,Apr,Even,Home,Lost,2,3,"Wankhede Stadium, Mumbai",Rohit Sharma,Mahela Jayawardene,3,4,3,0,0,1,0,0,1,Lost
+40,N,12,DC,Mumbai,Apr,Odd,Home,Lost,2,4,"Wankhede Stadium, Mumbai",Rohit Sharma,Mahela Jayawardene,4,3,3,0,0,1,0,0,1,Win
+41,N,13,SRH,Mumbai,Apr,Even,Home,Won,2,2,"Wankhede Stadium, Mumbai",Rohit Sharma,Mahela Jayawardene,4,3,3,1,0,0,0,0,1,Lost
+42,D/N,14,KKR,Mumbai,May,Even,Home,Lost,2,3,"Wankhede Stadium, Mumbai",Rohit Sharma,Mahela Jayawardene,3,4,3,0,1,0,1,0,1,Win
+43,N,1,RCB,Mumbai,May,Odd,Home,Lost,2,3,"Wankhede Stadium, Mumbai",Rohit Sharma,Mahela Jayawardene,3,4,3,0,0,1,0,0,1,Lost
+44,N,2,CSK,Mumbai,May,Even,Home,Lost,2,3,"Wankhede Stadium, Mumbai",Rohit Sharma,Mahela Jayawardene,3,4,3,0,0,1,0,0,1,Win
+45,N,3,KKR,Mumbai,Apr,Odd,Home,Won,2,3,"Wankhede Stadium, Mumbai",Rohit Sharma,Mahela Jayawardene,4,3,3,0,0,1,0,0,1,Win
+46,N,4,RCB,Mumbai,Apr,Even,Home,Won,2,3,"Wankhede Stadium, Mumbai",Rohit Sharma,Mahela Jayawardene,4,3,3,0,0,1,0,0,1,Win
+47,D/N,5,KXIP,Mumbai,Apr,Even,Home,Won,2,3,"Wankhede Stadium, Mumbai",Rohit Sharma,Mahela Jayawardene,4,3,3,1,0,0,0,0,1,Win
+48,N,6,SRH,Mumbai,Apr,Even,Home,Lost,2,2,"Wankhede Stadium, Mumbai",Rohit Sharma,Mahela Jayawardene,4,3,3,1,0,0,0,0,1,Win
+49,N,7,RR,Mumbai,Apr,Even,Home,Won,2,3,"Wankhede Stadium, Mumbai",Rohit Sharma,Mahela Jayawardene,5,2,3,1,0,0,0,0,1,Lost
+50,D/N,8,DC,Mumbai,May,Odd,Home,Lost,1,3,"Wankhede Stadium, Mumbai",Rohit Sharma,Mahela Jayawardene,4,3,3,0,1,0,0,1,1,Win
+51,N,9,KKR,Mumbai,May,Odd,Home,Won,2,4,"Wankhede Stadium, Mumbai",Rohit Sharma,Mahela Jayawardene,5,2,3,0,0,0,0,0,1,Lost
+52,N,10,KXIP,Mumbai,May,Even,Home,Won,2,3,"Wankhede Stadium, Mumbai",Rohit Sharma,Mahela Jayawardene,4,3,3,1,0,0,0,0,1,Lost
+53,N,11,CSK,Bengaluru,May,Odd,Home,Won,2,2,"M.Chinnaswamy Stadium, Bengaluru",Rohit Sharma,Mahela Jayawardene,4,3,3,0,0,1,0,0,1,Win
+54,N,12,RR,Others,May,Odd,Home,Won,1,2,Others,Rohit Sharma,Mahela Jayawardene,4,3,3,1,1,0,0,0,1,Win
+55,N,13,RCB,Mumbai,Apr,Odd,Home,Won,1,2,"Wankhede Stadium, Mumbai",Rohit Sharma,Mahela Jayawardene,4,3,3,0,0,0,1,0,1,Lost
+56,N,14,DC,Mumbai,Apr,Even,Home,Lost,2,2,"Wankhede Stadium, Mumbai",Rohit Sharma,Mahela Jayawardene,4,3,3,0,0,0,1,0,1,Lost
+57,N,15,SRH,Mumbai,Apr,Even,Home,Won,2,3,"Wankhede Stadium, Mumbai",Rohit Sharma,Mahela Jayawardene,4,3,3,0,0,0,0,0,1,Win
+58,N,16,DC,Mumbai,Apr,Even,Home,Won,2,3,"Wankhede Stadium, Mumbai",Rohit Sharma,Mahela Jayawardene,4,3,3,0,0,1,0,0,1,Win
+59,D/N,1,DC,Others,May,Even,Home,Won,2,3,Others,Rohit Sharma,Mahela Jayawardene,4,3,3,1,0,1,0,0,1,Lost
+60,N,2,DC,Others,May,Odd,Home,Won,1,2,Others,Rohit Sharma,Mahela Jayawardene,4,2,4,0,1,0,1,0,1,Lost
+61,N,3,RCB,Others,May,Odd,Home,Lost,2,4,Others,Rohit Sharma,Mahela Jayawardene,4,2,4,0,1,1,0,0,1,Win
+62,N,4,KXIP,Mumbai,Apr,Even,Home,Won,2,3,"Wankhede Stadium, Mumbai",Rohit Sharma,Mahela Jayawardene,5,2,3,0,0,0,0,0,1,Lost
+63,N,5,CSK,Mumbai,Apr,Odd,Home,Won,1,3,"Wankhede Stadium, Mumbai",Rohit Sharma,Mahela Jayawardene,5,2,3,0,1,0,0,0,1,Lost
+64,D/N,6,SRH,Mumbai,Apr,Odd,Home,Won,1,3,"Wankhede Stadium, Mumbai",Rohit Sharma,Mahela Jayawardene,5,1,4,0,0,0,1,1,1,Win
+65,N,7,KXIP,Mumbai,May,Odd,Home,Lost,2,3,"Wankhede Stadium, Mumbai",Rohit Sharma,Mahela Jayawardene,5,1,4,0,0,0,1,1,1,Win
+66,N,8,RR,Mumbai,May,Odd,Home,Lost,1,3,"Wankhede Stadium, Mumbai",Rohit Sharma,Mahela Jayawardene,5,2,3,0,0,0,1,1,1,Win
+67,D/N,9,RCB,Mumbai,May,Even,Home,Lost,1,4,"Wankhede Stadium, Mumbai",Rohit Sharma,Mahela Jayawardene,5,2,3,0,0,0,0,0,1,Lost
+68,N,10,DC,Mumbai,May,Even,Home,Lost,2,3,"Wankhede Stadium, Mumbai",Rohit Sharma,Mahela Jayawardene,5,2,3,0,0,0,0,0,1,Win
+69,N,11,RR,Others,Apr,Even,Home,Lost,1,3,Others,Rohit Sharma,Mahela Jayawardene,4,2,4,0,0,0,0,0,1,Lost
+70,N,12,CSK,Others,Apr,Even,Home,Won,2,3,Others,Rohit Sharma,Mahela Jayawardene,4,2,4,1,0,0,1,0,1,Lost
+71,D/N,13,KKR,Mumbai,May,Odd,Home,Lost,1,3,"Wankhede Stadium, Mumbai",Rohit Sharma,Mahela Jayawardene,4,2,4,0,0,0,0,0,1,Win
+72,N,14,SRH,Mumbai,May,Even,Home,Lost,2,3,"Wankhede Stadium, Mumbai",Rohit Sharma,Mahela Jayawardene,4,2,4,1,0,0,0,0,1,Win
+73,N,15,KKR,Mumbai,May,Even,Home,Lost,2,3,"Wankhede Stadium, Mumbai",Rohit Sharma,Mahela Jayawardene,4,2,4,0,0,0,1,0,1,Lost
+74,D/N,16,CSK,Mumbai,May,Odd,Home,Lost,2,3,"Wankhede Stadium, Mumbai",Rohit Sharma,Mahela Jayawardene,4,2,4,1,0,0,0,0,1,Win
+75,N,1,CSK,Mumbai,May,Odd,Home,Won,2,3,"Wankhede Stadium, Mumbai",Rohit Sharma,Mahela Jayawardene,3,3,4,1,0,0,0,0,1,Win
+76,N,1,CSK,Mumbai,May,Even,Home,Lost,2,3,Others,Rohit Sharma,Mahela Jayawardene,4,2,4,0,0,0,0,0,1,Lost
+77,N,2,SRH,Mumbai,Apr,Odd,Home,Won,1,4,"Wankhede Stadium, Mumbai",Ricky Ponting,Mahela Jayawardene,4,2,4,0,0,0,0,0,1,Win
+78,D/N,3,DC,Mumbai,Apr,Odd,Home,Won,1,3,"Wankhede Stadium, Mumbai",Ricky Ponting,Mahela Jayawardene,4,2,4,1,0,0,0,0,1,Win
+79,N,2,RCB,Mumbai,Apr,Odd,Home,Won,1,3,"Wankhede Stadium, Mumbai",Rohit Sharma,Mahela Jayawardene,5,2,3,0,1,0,0,0,1,Win
+80,N,4,RR,Mumbai,Apr,Odd,Home,Won,1,3,"Wankhede Stadium, Mumbai",Rohit Sharma,Mahela Jayawardene,5,2,3,0,1,0,0,0,1,Win
+81,D/N,3,SRH,Mumbai,May,Odd,Home,Won,1,2,"Wankhede Stadium, Mumbai",Rohit Sharma,Mahela Jayawardene,5,2,3,1,0,0,1,0,1,Win
+82,N,4,CSK,Mumbai,May,Odd,Home,Won,1,3,"Wankhede Stadium, Mumbai",Rohit Sharma,Mahela Jayawardene,5,2,3,1,0,0,1,0,1,Win
+83,N,5,RCB,Mumbai,May,Odd,Home,Lost,1,3,"Wankhede Stadium, Mumbai",Rohit Sharma,Mahela Jayawardene,5,2,3,0,0,0,0,0,1,Win
+84,N,5,KXIP,Mumbai,May,Odd,Home,Lost,2,3,"Wankhede Stadium, Mumbai",Rohit Sharma,Mahela Jayawardene,5,2,3,0,1,0,0,0,1,Win
+85,N,6,KKR,Kolkata,May,Even,Home,Lost,1,3,"Eden Gardens, Kolkata",Rohit Sharma,Mahela Jayawardene,4,3,3,0,0,0,1,0,1,Win
+86,D/N,6,KKR,Mumbai,Apr,Even,Home,Won,2,2,"Wankhede Stadium, Mumbai",Harbhajan Singh,Mahela Jayawardene,4,2,4,0,0,0,0,0,1,Lost
+87,N,7,RR,Mumbai,Apr,Odd,Home,Lost,2,3,"Wankhede Stadium, Mumbai",Harbhajan Singh,Mahela Jayawardene,4,2,4,0,0,0,0,0,1,Win
+88,N,7,KXIP,Mumbai,Apr,Even,Home,Lost,2,1,"Wankhede Stadium, Mumbai",Harbhajan Singh,Mahela Jayawardene,5,1,4,0,0,0,0,0,1,Lost
+89,D/N,1,DC,Mumbai,Apr,Even,Home,Won,1,3,"Wankhede Stadium, Mumbai",Harbhajan Singh,Mahela Jayawardene,4,3,3,1,0,0,0,0,1,Lost
+90,N,2,Others,Mumbai,Apr,Odd,Home,Won,2,2,"Wankhede Stadium, Mumbai",Harbhajan Singh,Mahela Jayawardene,5,1,4,0,1,0,0,0,1,Win
+91,D/N,3,KKR,Mumbai,May,Even,Home,Won,2,3,"Wankhede Stadium, Mumbai",Harbhajan Singh,Mahela Jayawardene,5,2,3,0,0,0,0,0,1,Win
+92,N,4,SRH,Mumbai,May,Odd,Home,Lost,2,2,"Wankhede Stadium, Mumbai",Harbhajan Singh,Mahela Jayawardene,4,3,3,0,0,0,0,0,1,Lost
+93,N,5,RCB,Mumbai,May,Even,Home,Won,2,2,"Wankhede Stadium, Mumbai",Harbhajan Singh,Mahela Jayawardene,4,2,4,0,0,0,0,0,1,Lost
+94,N,6,Others,Mumbai,Apr,Odd,Home,Lost,2,3,"Wankhede Stadium, Mumbai",Sachin Tendulkar,Mahela Jayawardene,4,3,3,0,0,0,0,0,1,Lost
+95,D/N,7,KXIP,Mumbai,Apr,Even,Home,Lost,1,2,"Wankhede Stadium, Mumbai",Sachin Tendulkar,Mahela Jayawardene,4,4,2,0,0,0,0,0,1,Win
+96,N,8,DC,Mumbai,Apr,Even,Home,Lost,2,3,"Wankhede Stadium, Mumbai",Sachin Tendulkar,Mahela Jayawardene,4,4,2,0,0,0,0,0,1,Win
+97,D/N,9,Others,Mumbai,May,Even,Home,Lost,2,3,"Wankhede Stadium, Mumbai",Sachin Tendulkar,Mahela Jayawardene,4,2,4,0,0,0,1,0,1,Win
+98,N,10,Others,Mumbai,May,Odd,Home,Lost,2,3,"Wankhede Stadium, Mumbai",Sachin Tendulkar,Mahela Jayawardene,4,2,4,0,0,0,1,0,1,Win
+99,N,11,RCB,Mumbai,May,Even,Home,Lost,1,2,"Wankhede Stadium, Mumbai",Sachin Tendulkar,Mahela Jayawardene,4,2,4,1,0,0,0,0,1,Lost
+100,N,12,DC,Mumbai,May,Even,Home,Won,1,2,"Wankhede Stadium, Mumbai",Sachin Tendulkar,Mahela Jayawardene,4,3,3,0,0,0,0,0,1,Lost
+101,N,13,SRH,Mumbai,May,Odd,Home,Won,2,2,"Wankhede Stadium, Mumbai",Sachin Tendulkar,Mahela Jayawardene,4,2,4,0,0,0,0,0,1,Win
+102,N,14,KXIP,Chennai,May,Odd,Home,Won,2,3,"MA Chidambaram Stadium, Chepauk, Chennai",Sachin Tendulkar,Mahela Jayawardene,4,3,3,0,0,0,1,0,1,Lost
+103,D/N,15,KKR,Mumbai,Mar,Odd,Home,Won,1,4,Others,Sachin Tendulkar,Mahela Jayawardene,4,3,3,0,0,0,0,0,1,Win
+104,N,16,Others,Mumbai,Mar,Even,Home,Won,1,3,Others,Sachin Tendulkar,Mahela Jayawardene,3,4,3,0,0,0,1,0,1,Lost
+105,N,17,KKR,Mumbai,Mar,Even,Home,Lost,1,3,Others,Sachin Tendulkar,Mahela Jayawardene,3,4,3,0,0,0,1,0,1,Win
+106,N,1,Others,Mumbai,Mar,Odd,Home,Won,2,3,Others,Sachin Tendulkar,Mahela Jayawardene,3,4,3,0,0,0,0,0,1,Win
+107,N,2,Others,Mumbai,Mar,Even,Home,Won,2,3,Others,Sachin Tendulkar,Ricky Ponting,3,4,3,1,0,0,0,0,1,Win
+108,N,3,KKR,Mumbai,Apr,Odd,Home,Won,1,3,Others,Sachin Tendulkar,Ricky Ponting,3,4,3,1,0,0,0,0,1,Win
+109,D/N,4,Others,Mumbai,Apr,Odd,Home,Won,1,3,Others,Sachin Tendulkar,Ricky Ponting,4,3,3,0,0,0,0,0,1,Win
+110,N,5,SRH,Mumbai,Apr,Odd,Home,Won,1,3,Others,Sachin Tendulkar,Ricky Ponting,4,3,3,0,0,0,0,0,1,Win
+111,N,6,RCB,Mumbai,Apr,Odd,Home,Lost,1,3,Others,Sachin Tendulkar,Ricky Ponting,4,3,3,1,0,0,0,0,1,Lost
+112,D/N,7,DC,Others,Apr,Odd,Home,Lost,,,Others,Sachin Tendulkar,Ricky Ponting,6,4,1,0,0,0,0,0,1,Lost
+113,D/N,8,KXIP,Others,May,Even,Home,Lost,1,2,Others,Sachin Tendulkar,Ricky Ponting,3,4,3,0,0,0,0,0,1,Lost
+114,N,9,KKR,Mumbai,Apr,Even,Home,Won,1,3,"Wankhede Stadium, Mumbai",Harbhajan Singh,Ricky Ponting,3,3,4,0,0,0,0,0,1,Lost
+115,N,10,Others,Mumbai,Apr,Odd,Home,Lost,2,3,Others,Others,Ricky Ponting,2,4,4,0,0,0,0,0,1,Lost
+116,D/N,11,SRH,Mumbai,May,Even,Home,Lost,2,3,Others,Others,Ricky Ponting,2,4,4,0,0,0,0,0,1,Win
+117,N,12,RCB,Mumbai,May,Odd,Home,Won,2,2,Others,Others,Ricky Ponting,2,4,4,0,0,0,0,0,1,Win
+118,N,13,KXIP,Mumbai,May,Even,Home,Won,2,3,"Wankhede Stadium, Mumbai",Sachin Tendulkar,Ricky Ponting,2,4,4,0,0,0,0,0,1,Win
+119,N,14,DC,Mumbai,May,Even,Home,Won,2,1,"Wankhede Stadium, Mumbai",Sachin Tendulkar,Ricky Ponting,2,4,4,0,0,0,0,0,1,Win
+120,D/N,1,Others,Mumbai,May,Odd,Home,Won,2,3,"Wankhede Stadium, Mumbai",Sachin Tendulkar,Ricky Ponting,2,4,4,0,0,0,0,0,1,Lost
+121,N,2,KKR,Others,May,Even,Away,Won,2,3,Others,Rohit Sharma,Ricky Ponting,4,4,2,0,0,0,0,1,1,Lost
+122,D/N,3,KXIP,Chennai,May,Even,Away,Lost,2,2,"MA Chidambaram Stadium, Chepauk, Chennai",Rohit Sharma,Ricky Ponting,3,3,4,0,0,0,0,0,1,Lost
+123,N,4,RR,Others,May,Odd,Away,Won,2,4,Others,Rohit Sharma,Ricky Ponting,3,3,4,0,0,0,0,0,1,Win
+124,N,5,CSK,Others,Apr,Odd,Away,Won,2,4,Others,Rohit Sharma,Ricky Ponting,3,5,2,0,0,0,0,1,1,Lost
+125,N,6,RCB,Others,Apr,Even,Away,Lost,2,3,Others,Rohit Sharma,Ricky Ponting,2,3,5,0,0,1,0,0,1,Win
+126,N,7,DC,Delhi,Apr,Odd,Away,Won,2,3,"Arun Jaitley Stadium, Delhi",Rohit Sharma,Ricky Ponting,3,2,5,0,0,0,0,0,1,Win
+127,N,8,SRH,Bengaluru,Apr,Even,Away,Lost,2,3,"M.Chinnaswamy Stadium, Bengaluru",Rohit Sharma,Ricky Ponting,4,4,2,0,0,1,0,0,1,Lost
+128,D/N,9,RR,Mumbai,Mar,Odd,Away,Lost,2,3,Others,Rohit Sharma,Ricky Ponting,4,3,3,0,0,0,0,0,1,Lost
+129,N,10,KXIP,Others,Apr,Even,Away,Lost,2,3,Others,Rohit Sharma,Ricky Ponting,4,3,3,0,0,0,0,0,1,Lost
+130,N,11,DC,Others,Apr,Odd,Away,Lost,2,3,Others,Rohit Sharma,Ricky Ponting,2,5,3,0,0,0,0,0,1,Lost
+131,N,12,CSK,Mumbai,Apr,Even,Away,Won,2,3,"Wankhede Stadium, Mumbai",Rohit Sharma,Ricky Ponting,3,4,3,0,0,0,0,0,1,Lost
+132,N,13,RCB,Mumbai,Apr,Even,Away,Won,2,3,Others,Rohit Sharma,Ricky Ponting,4,2,4,0,0,0,0,0,1,Win
+133,N,14,KKR,Mumbai,May,Even,Away,Lost,2,3,Others,Rohit Sharma,Ricky Ponting,5,2,3,0,0,0,0,0,1,Win
+134,N,15,SRH,Mumbai,May,Even,Away,Won,2,1,"Wankhede Stadium, Mumbai",Rohit Sharma,Ricky Ponting,3,3,4,0,0,1,0,1,1,Win
+135,N,16,CSK,Others,Oct,Even,Away,Won,1,4,Others,Rohit Sharma,Ricky Ponting,3,3,4,0,0,0,0,0,1,Win
+136,N,1,CSK,Others,Oct,Odd,Away,Won,2,1,Others,Rohit Sharma,Ricky Ponting,3,3,4,0,0,0,0,0,1,Win
+137,N,1,KKR,Others,Sep,Even,Away,Won,2,3,Others,Rohit Sharma,John Wright,4,3,3,0,0,1,0,0,1,Lost
+138,N,2,RCB,Others,Sep,Odd,Away,Lost,1,3,Others,Kieron Pollard,John Wright,3,3,4,0,1,1,0,0,1,Lost
+139,N,3,CSK,Chennai,Apr,Odd,Away,Lost,2,2,"MA Chidambaram Stadium, Chepauk, Chennai",Rohit Sharma,John Wright,3,4,3,0,0,1,0,0,1,Lost
+140,N,2,DC,Chennai,Apr,Even,Away,Won,1,2,"MA Chidambaram Stadium, Chepauk, Chennai",Rohit Sharma,John Wright,3,3,4,0,0,0,0,1,1,Lost
+141,N,3,SRH,Chennai,Apr,Odd,Away,Lost,2,3,"MA Chidambaram Stadium, Chepauk, Chennai",Rohit Sharma,John Wright,4,2,4,0,0,0,0,1,1,Win
+142,N,4,KXIP,Others,Sep,Odd,Away,Lost,2,3,Others,Rohit Sharma,John Wright,3,3,4,1,0,0,0,1,1,Win
+143,N,5,RCB,Others,Sep,Even,Away,Won,2,4,Others,Rohit Sharma,John Wright,3,3,4,0,1,1,0,0,1,Win
+144,N,4,CSK,Others,Oct,Odd,Away,Lost,2,3,Others,Rohit Sharma,John Wright,3,3,4,1,0,0,0,0,1,Win
+145,N,5,SRH,Others,Oct,Odd,Away,Won,2,2,Others,Kieron Pollard,John Wright,4,2,4,0,0,0,0,0,1,Win
+146,N,6,KKR,Others,Oct,Odd,Away,Won,1,3,Others,Kieron Pollard,John Wright,4,2,4,1,0,0,0,0,1,Lost
+147,,7,RR,Others,Oct,Odd,Away,Won,2,2,Others,Kieron Pollard,John Wright,4,1,5,0,1,0,0,0,1,Win
+148,N,6,KXIP,Others,Nov,Odd,Away,Lost,2,2,Others,Rohit Sharma,John Wright,4,1,5,0,0,0,0,0,1,Lost
+149,N,7,DC,Others,Nov,Odd,Away,Lost,2,3,Others,Rohit Sharma,John Wright,2,3,5,0,0,1,0,1,1,Win
+150,N,8,RR,Others,Nov,Even,Away,Lost,1,3,Others,Rohit Sharma,John Wright,3,2,5,0,1,1,0,1,0,Win
+151,N,1,CSK,Bengaluru,Mar,Even,Away,Lost,2,3,"M.Chinnaswamy Stadium, Bengaluru",Rohit Sharma,John Wright,4,3,3,1,0,0,0,0,1,Win
+152,D/N,2,RCB,Others,Mar,Even,Away,Lost,2,3,Others,Rohit Sharma,John Wright,4,3,3,0,1,0,0,1,1,Lost
+153,N,3,CSK,Others,Apr,Even,Away,Lost,2,2,Others,Rohit Sharma,John Wright,4,4,2,0,0,1,0,0,1,Win
+154,N,4,DC,Delhi,Apr,Even,Away,Won,1,3,"Arun Jaitley Stadium, Delhi",Rohit Sharma,John Wright,3,3,4,0,1,0,0,0,1,Win
+155,D/N,5,Others,Others,Apr,Even,Away,Lost,2,3,Others,Rohit Sharma,John Wright,2,4,4,1,0,0,0,0,1,Lost
+156,N,6,RR,Chennai,Apr,Even,Away,Lost,2,3,"MA Chidambaram Stadium, Chepauk, Chennai",Rohit Sharma,John Wright,3,4,3,0,1,0,0,0,1,Win
+157,N,7,DC,Kolkata,Apr,Even,Away,Won,2,4,"Eden Gardens, Kolkata",Rohit Sharma,John Wright,2,3,5,0,0,1,0,0,1,Lost
+158,N,8,KKR,Others,Apr,Even,Away,Lost,2,2,Others,Rohit Sharma,John Wright,4,3,3,0,0,0,0,0,1,Lost
+159,N,9,RCB,Others,Apr,Even,Away,Won,1,3,Others,Rohit Sharma,John Wright,2,4,4,0,0,1,0,0,1,Lost
+160,N,10,KXIP,Others,Apr,Even,Away,Won,2,3,Others,Rohit Sharma,John Wright,4,3,3,0,0,1,0,1,1,Win
+161,N,11,SRH,Bengaluru,May,Odd,Away,Won,2,3,"M.Chinnaswamy Stadium, Bengaluru",Rohit Sharma,John Wright,4,3,3,0,0,1,0,0,1,Lost
+162,N,12,CSK,Others,May,Even,Away,Won,2,3,Others,Rohit Sharma,John Wright,3,3,4,1,0,0,0,0,1,Win
+163,N,13,KKR,Kolkata,May,Odd,Away,Lost,2,4,"Eden Gardens, Kolkata",Rohit Sharma,John Wright,2,4,4,0,1,0,1,0,1,Win
+164,D/N,14,Others,Delhi,May,Even,Away,Lost,1,3,"Arun Jaitley Stadium, Delhi",Rohit Sharma,John Wright,6,2,2,0,0,0,1,0,1,Lost
+165,N,15,SRH,Others,Apr,Even,Away,Lost,2,3,Others,Rohit Sharma,John Wright,4,2,4,1,0,0,0,0,1,Lost
+166,D/N,16,RR,Bengaluru,Apr,Even,Away,Won,2,2,"M.Chinnaswamy Stadium, Bengaluru",Rohit Sharma,John Wright,5,3,2,0,1,0,0,0,1,Win
+167,N,17,KXIP,Others,Apr,Even,Away,Won,2,3,Others,Rohit Sharma,John Wright,4,2,4,0,1,0,0,0,1,Win
+168,N,18,CSK,Others,Apr,Odd,Away,Lost,1,3,Others,Rohit Sharma,John Wright,2,4,4,0,1,0,0,1,1,Win
+169,N,19,RR,Delhi,May,Even,Away,Lost,2,4,"Arun Jaitley Stadium, Delhi",Rohit Sharma,John Wright,5,1,4,0,0,1,0,0,1,Win
+170,N,1,CSK,Others,May,Even,Away,Won,1,2,Others,Rohit Sharma,John Wright,4,3,3,0,1,0,0,0,1,Lost
+171,N,2,CSK,Kolkata,May,Odd,Away,Lost,2,3,"Eden Gardens, Kolkata",Rohit Sharma,Robin Singh,4,3,3,1,0,0,0,0,1,Win
+172,N,3,Others,Kolkata,Apr,Odd,Away,Won,2,3,"Eden Gardens, Kolkata",Rohit Sharma,Robin Singh,1,5,4,1,0,1,0,0,1,Win
+173,N,4,SRH,Others,Apr,Even,Away,Lost,2,2,Others,Rohit Sharma,Robin Singh,3,4,3,0,0,0,1,0,1,Lost
+174,D/N,5,RR,Delhi,Apr,Odd,Away,Won,2,3,"Arun Jaitley Stadium, Delhi",Rohit Sharma,Robin Singh,5,2,3,1,0,1,0,0,1,Lost
+175,N,6,DC,Others,Apr,Odd,Away,Lost,2,3,Others,Rohit Sharma,Robin Singh,3,3,4,0,0,1,0,0,1,Win
+176,N,7,KXIP,Others,May,Odd,Away,Won,2,3,Others,Rohit Sharma,Robin Singh,3,3,4,0,0,1,0,0,1,Win
+177,N,8,KXIP,Bengaluru,May,Odd,Away,Won,2,3,"M.Chinnaswamy Stadium, Bengaluru",Rohit Sharma,Robin Singh,4,3,3,0,0,0,0,0,1,Win
+178,N,9,DC,Others,May,Odd,Away,Lost,2,3,Others,Rohit Sharma,Robin Singh,3,3,4,0,0,0,0,0,1,Lost
+179,N,10,SRH,Kolkata,Apr,Even,Away,Lost,2,3,"Eden Gardens, Kolkata",Rohit Sharma,Robin Singh,2,5,3,1,0,0,0,0,1,Lost
+180,N,11,Others,Others,Apr,Even,Away,Won,1,3,Others,Rohit Sharma,Robin Singh,3,4,3,0,0,0,0,0,1,Lost
+181,N,12,CSK,Bengaluru,Apr,Odd,Away,Lost,2,4,"M.Chinnaswamy Stadium, Bengaluru",Rohit Sharma,Robin Singh,3,3,4,0,0,0,0,0,1,Win
+182,N,13,RCB,Delhi,Apr,Odd,Away,Won,2,3,"Arun Jaitley Stadium, Delhi",Rohit Sharma,Robin Singh,4,2,4,0,0,0,0,1,1,Lost
+183,D/N,14,KKR,Others,May,Odd,Away,Won,1,3,Others,Rohit Sharma,Robin Singh,3,2,5,1,0,0,0,0,1,Win
+184,N,15,RCB,Chennai,May,Even,Away,Lost,1,3,"MA Chidambaram Stadium, Chepauk, Chennai",Rohit Sharma,Robin Singh,3,4,3,0,0,0,0,1,1,Win
+185,N,16,KKR,Others,May,Odd,Away,Lost,1,2,Others,Rohit Sharma,Robin Singh,4,2,4,0,1,0,0,1,1,Win
+186,N,17,RR,Mumbai,May,Odd,Away,Won,1,3,"Wankhede Stadium, Mumbai",Rohit Sharma,Robin Singh,3,4,3,0,0,0,1,0,1,Win
+187,N,1,CSK,Kolkata,May,Even,Away,Lost,2,4,"Eden Gardens, Kolkata",Rohit Sharma,Robin Singh,3,4,3,0,0,0,1,0,1,Win
+188,,2,DC,Others,Apr,Odd,Away,Lost,2,2,Others,Rohit Sharma,Robin Singh,5,1,4,0,1,0,0,0,1,Lost
+189,N,3,RCB,Others,Apr,Odd,Away,Won,1,2,Others,Rohit Sharma,Robin Singh,3,4,3,1,0,0,0,0,1,Lost
+190,,4,Others,Others,Apr,Odd,Away,Won,1,2,Others,Rohit Sharma,Robin Singh,4,3,3,0,1,0,0,0,1,Lost
+191,N,5,Others,Others,May,Even,Away,Lost,1,3,Others,Rohit Sharma,Robin Singh,4,2,4,0,0,0,1,0,1,Win
+192,N,6,CSK,Others,May,Even,Away,Lost,2,2,Others,Rohit Sharma,Robin Singh,2,5,3,0,1,0,0,0,1,Lost
+193,D/N,7,SRH,Others,May,Odd,Away,Won,1,3,Others,Rohit Sharma,Robin Singh,2,5,3,1,0,0,0,0,1,Win
+194,N,8,RR,Others,May,Odd,Away,Won,2,3,Others,Rohit Sharma,Robin Singh,2,3,5,0,0,0,1,0,1,Win
+195,N,9,KXIP,Bengaluru,Apr,Even,Away,Won,2,3,"M.Chinnaswamy Stadium, Bengaluru",Ricky Ponting,Robin Singh,4,3,3,0,0,0,0,0,1,Lost
+196,N,10,Others,Chennai,Apr,Even,Away,Won,1,2,"MA Chidambaram Stadium, Chepauk, Chennai",Ricky Ponting,Robin Singh,3,3,4,0,0,0,0,0,1,Win
+197,N,11,DC,Others,Apr,Odd,Away,Lost,1,3,Others,Ricky Ponting,Robin Singh,1,5,4,0,0,0,0,0,1,Lost
+198,D/N,12,KXIP,Delhi,Apr,Odd,Away,Won,1,3,"Arun Jaitley Stadium, Delhi",Ricky Ponting,Robin Singh,3,3,4,1,0,0,1,0,1,Lost
+199,N,13,SRH,Kolkata,Apr,Even,Away,Lost,1,3,"Eden Gardens, Kolkata",Rohit Sharma,Robin Singh,2,5,3,1,0,0,1,0,1,Win
+200,D/N,14,RR,Others,May,Odd,Away,Won,1,2,Others,Rohit Sharma,Robin Singh,4,4,2,0,1,0,0,0,1,Lost
+201,D/N,15,KKR,Others,May,Odd,Away,Lost,1,2,Others,Rohit Sharma,Robin Singh,4,3,3,0,1,0,0,0,1,Win
+202,D/N,16,KKR,Others,May,Even,Away,Won,2,3,Others,Rohit Sharma,Robin Singh,3,2,5,1,0,0,1,0,1,Lost
+203,N,1,RCB,Delhi,May,Odd,Away,Lost,1,3,"Arun Jaitley Stadium, Delhi",Rohit Sharma,Robin Singh,1,5,4,1,0,0,0,0,1,Lost
+204,N,2,RR,Kolkata,May,Even,Away,Won,1,2,"Eden Gardens, Kolkata",Rohit Sharma,Robin Singh,1,5,4,0,0,0,1,0,1,Win
+205,N,3,DC,Chennai,Apr,Even,Away,Won,2,2,"MA Chidambaram Stadium, Chepauk, Chennai",Harbhajan Singh,Robin Singh,2,4,4,1,0,0,0,0,1,Win
+206,N,4,RCB,Others,Apr,Odd,Away,Lost,1,2,Others,Harbhajan Singh,Robin Singh,4,1,5,0,1,0,1,0,1,Win
+207,D/N,5,KKR,Others,Apr,Odd,Away,Lost,1,3,Others,Harbhajan Singh,Robin Singh,3,3,4,0,1,0,0,0,1,Win
+208,N,6,CSK,Delhi,Apr,Odd,Away,Won,2,4,"Arun Jaitley Stadium, Delhi",Harbhajan Singh,Robin Singh,4,2,4,0,1,0,0,0,1,Lost
+209,N,7,SRH,Others,May,Odd,Away,Won,1,2,Others,Harbhajan Singh,Robin Singh,5,2,3,0,0,0,0,0,1,Win
+210,D/N,8,KXIP,Kolkata,May,Even,Away,Won,1,3,"Eden Gardens, Kolkata",Harbhajan Singh,Robin Singh,1,6,3,1,0,0,0,0,1,Win
+211,D/N,9,SRH,Bengaluru,May,Even,Away,Won,2,3,"M.Chinnaswamy Stadium, Bengaluru",Harbhajan Singh,Robin Singh,4,2,4,0,0,0,0,0,1,Win
+212,N,10,CSK,Others,May,Even,Away,Lost,1,3,Others,Harbhajan Singh,Robin Singh,2,5,3,0,0,0,1,0,1,Win
+213,N,11,KXIP,Bengaluru,May,Odd,Away,Won,2,3,"M.Chinnaswamy Stadium, Bengaluru",Harbhajan Singh,Robin Singh,2,4,4,0,0,0,1,0,1,Lost
+214,D/N,12,RR,Delhi,Apr,Even,Away,Lost,1,1,"Arun Jaitley Stadium, Delhi",Sachin Tendulkar,Robin Singh,3,2,5,0,0,0,0,0,1,Win
+215,N,13,DC,Bengaluru,Apr,Even,Away,Won,2,2,"M.Chinnaswamy Stadium, Bengaluru",Sachin Tendulkar,Robin Singh,4,2,4,0,0,0,1,0,1,Win
+216,D/N,14,RCB,Others,Apr,Even,Away,Lost,2,3,Others,Sachin Tendulkar,Robin Singh,4,1,5,0,0,0,1,0,1,Win
+217,D/N,15,KKR,Others,Apr,Odd,Away,Lost,2,1,Others,Sachin Tendulkar,Robin Singh,3,4,3,1,0,0,0,0,1,Lost
+218,N,16,RCB,Mumbai,May,Even,Away,Lost,2,3,Others,Sachin Tendulkar,Robin Singh,3,3,4,0,0,0,1,0,1,Win
+219,N,1,CSK,Others,May,Even,Away,Won,2,3,Others,Sachin Tendulkar,Robin Singh,4,3,3,1,0,0,0,0,1,Lost
+220,N,2,CSK,Kolkata,May,Even,Away,Won,2,3,"Eden Gardens, Kolkata",Sachin Tendulkar,Shaun Pollock,2,6,2,1,0,0,0,0,1,Win
+221,N,3,RR,Delhi,Mar,Odd,Away,Lost,2,4,"Arun Jaitley Stadium, Delhi",Sachin Tendulkar,Shaun Pollock,4,3,3,1,0,0,0,0,1,Win
+222,N,4,SRH,Mumbai,Mar,Even,Away,Lost,2,3,Others,Sachin Tendulkar,Shaun Pollock,4,1,5,0,0,0,0,0,1,Win
+223,N,5,KKR,Chennai,Apr,Even,Away,Lost,1,3,"MA Chidambaram Stadium, Chepauk, Chennai",Sachin Tendulkar,Shaun Pollock,4,1,5,0,0,0,0,0,1,Lost
+224,N,6,KXIP,Others,Apr,Odd,Away,Won,1,3,Others,Sachin Tendulkar,Shaun Pollock,3,2,5,0,0,0,0,0,1,Lost
+225,N,7,KKR,Others,Apr,Odd,Away,Lost,2,3,Others,Sachin Tendulkar,Shaun Pollock,3,3,4,1,0,0,0,0,1,Win
+226,D/N,8,RCB,Bengaluru,Apr,Odd,Away,Lost,2,3,"M.Chinnaswamy Stadium, Bengaluru",Sachin Tendulkar,Shaun Pollock,3,1,6,0,0,0,1,0,1,Win
+227,N,9,SRH,Kolkata,Apr,Odd,Away,Won,1,2,"Eden Gardens, Kolkata",Others,Shaun Pollock,4,2,4,0,0,0,0,0,1,Lost
+228,,10,DC,Others,Apr,Even,Away,Lost,2,3,Others,Sachin Tendulkar,Shaun Pollock,2,4,4,0,0,0,0,0,1,Win
+229,,11,RCB,Others,Apr,Odd,Away,Lost,1,3,Others,Sachin Tendulkar,Shaun Pollock,4,1,5,0,0,0,1,0,1,Lost
+230,D/N,12,KXIP,Others,Apr,Odd,Away,Won,1,3,Others,Sachin Tendulkar,Shaun Pollock,4,2,4,0,0,0,0,0,1,Win
+231,D/N,13,RR,Others,Apr,Odd,Away,Lost,1,2,Others,Sachin Tendulkar,Shaun Pollock,3,2,5,0,0,0,0,0,1,Lost
+232,,14,CSK,Others,May,Odd,Away,Won,1,2,Others,Sachin Tendulkar,Shaun Pollock,4,2,4,0,0,0,0,0,1,Win
+233,D/N,1,DC,Others,May,Odd,Away,Won,1,2,Others,Sachin Tendulkar,Shaun Pollock,2,2,6,0,0,0,0,0,1,Lost
+234,D/N,2,RCB,Others,May,Even,Away,Lost,1,2,Others,Sachin Tendulkar,Lalchand Rajput,3,1,6,0,0,0,1,0,1,Lost
+235,D/N,3,CSK,Others,May,Even,Away,Won,1,2,Others,Sachin Tendulkar,Lalchand Rajput,4,3,3,0,0,0,0,0,1,Lost
+236,,4,KXIP,Others,May,Even,Away,Won,1,3,Others,Sachin Tendulkar,Lalchand Rajput,2,2,6,0,0,0,0,0,1,Win
+237,D/N,5,SRH,Others,May,Even,Away,Lost,1,2,Others,Sachin Tendulkar,Lalchand Rajput,2,2,6,0,0,0,0,0,1,Win
+238,,6,KKR,Others,May,Even,Away,Won,1,2,Others,Sachin Tendulkar,Lalchand Rajput,4,2,4,0,0,0,0,0,1,Lost
+239,,7,DC,Others,May,Odd,Away,Lost,2,3,Others,Sachin Tendulkar,Lalchand Rajput,4,2,4,1,0,0,0,0,1,Lost
+240,N,8,RR,Chennai,Apr,Odd,Away,Won,2,4,"MA Chidambaram Stadium, Chepauk, Chennai",Harbhajan Singh,Lalchand Rajput,2,2,6,0,0,0,0,0,1,Lost
+241,N,9,CSK,Others,Apr,Odd,Away,Won,2,3,Others,Harbhajan Singh,Lalchand Rajput,2,2,6,0,0,0,0,0,1,Lost
+242,N,10,KKR,Kolkata,Apr,Odd,Away,Lost,1,2,"Eden Gardens, Kolkata",Others,Lalchand Rajput,4,3,3,0,0,0,0,0,1,Win
+243,N,11,SRH,Others,May,Even,Away,Lost,2,3,Others,Sachin Tendulkar,Lalchand Rajput,2,1,7,0,0,0,0,0,1,Win
+244,N,12,KXIP,Delhi,May,Even,Away,Lost,2,3,"Arun Jaitley Stadium, Delhi",Sachin Tendulkar,Lalchand Rajput,3,3,4,0,0,0,0,0,1,Lost
+245,N,13,DC,Others,May,Even,Away,Lost,2,2,Others,Sachin Tendulkar,Lalchand Rajput,4,3,3,0,0,0,0,0,1,Lost
+246,D/N,14,RR,Bengaluru,May,Even,Away,Won,2,2,"M.Chinnaswamy Stadium, Bengaluru",Sachin Tendulkar,Lalchand Rajput,4,0,6,0,0,0,0,0,1,Win
+,,,RCB,,,,,,,,,,Lalchand Rajput,,,,,,,,,,
